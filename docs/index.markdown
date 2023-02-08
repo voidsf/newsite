@@ -15,7 +15,7 @@ trying to get network skills and learn how to do tech journalism
 but idk where to start lolz
 vastly anti-crypto, anti-nft, anti-blockchain, anti invasive tracker and anti-internet of things. keep the internet private basically. thanks xx
 
-[my tumblr is here](https://aloyenjoyer.tumblr.com)
+[my tumblr is here](https://gothixdreaming.tumblr.com)
 
 
 
