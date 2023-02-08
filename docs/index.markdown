@@ -18,5 +18,6 @@ vastly anti-crypto, anti-nft, anti-blockchain, anti invasive tracker and anti-in
 [my tumblr is here](https://gothixdreaming.tumblr.com)
 
 
-
 <img src="/media/picrew1.png" alt="white girl with round glasses and long black hair, wearing several necklaces and various facial jewelery" width="200px" align="right"/>
+
+{% include posts.html %}
