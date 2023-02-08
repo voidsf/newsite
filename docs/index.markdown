@@ -4,7 +4,7 @@
 title: sam
 welcome_message: hello! welcome to my website!!!!
 
-layout: home
+layout: default
 ---
 
 my name is sam :3
